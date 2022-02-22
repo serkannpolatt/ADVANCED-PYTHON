@@ -1,2 +1,2 @@
 # ADVANCED PYTHON
- PYTHON
+some projects i've done
