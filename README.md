@@ -1,3 +1,4 @@
+## ENGLISH
 # ADVANCED PYTHON
 ## This ADVANCED-PYTHON is a repository for advanced Python projects and scripts. The repository contains code for topics such as metaclasses, decorators, context managers, and concurrency, among others.
 
@@ -9,7 +10,7 @@
 
 
 ### -------------------------------------------------------------------------------------------------------
-
+## TÜRKÇE
 # İLERİ SEVİYE PYTHON
 ## Bu ADVANCED-PYTHON, gelişmiş Python projeleri ve betikleri için bir havuzdur. Depo, diğerleri arasında metasınıflar, dekoratörler, bağlam yöneticileri ve eşzamanlılık gibi konular için kod içerir.
 
